@@ -1,0 +1,25 @@
+This repository is the Bank_ATM application.
+Steps to run the application. 
+  1.Download the Vinay_Bank_UPDATED.zip
+  2.Extract the zip file.
+  3.Go to the extracted folder of the zip file
+      1.Open WpfViewChanger
+      2.Open ViewChanger
+      3.Go to bin
+      4.Open Debug folder
+      5.RUN ViewChanger application.
+      
+App Features:
+1.Login Screen 
+     1.Register: To resgister new user. Give Username, PIN, and Amount of the user.
+     2.Now Login by the samer credentials.
+2.After Log-in in the app following operations can be performed.
+     1.ADD : Add the desired amount.
+     2.View Balance: Check the existing balance.
+     3.Withdraw: To withdraw the desired amount 
+       Constraint: Maximum 20,000 amount is the limit
+                   Always gives the least number of Notes(eg: If the user withdraw Rs 2500 then it gives 1 Note of 2000 and 1 Note of 500).
+                   Cannot withdraw more than the existing balance.
+  
+                   
+          
